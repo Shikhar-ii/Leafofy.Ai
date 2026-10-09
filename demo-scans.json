@@ -1,0 +1,148 @@
+{
+  "_note": "Fake demo data. Hotspot of tomato/potato late blight near center.",
+  "scans": [
+    {
+      "id": "scan-001",
+      "label": "Tomato___Late_blight",
+      "plant": "Tomato",
+      "condition": "Late blight",
+      "healthy": false,
+      "confidence": 0.94,
+      "lat": 38.93,
+      "lng": -79.84,
+      "timestamp": "2026-10-02T9:15:00Z"
+    },
+    {
+      "id": "scan-002",
+      "label": "Tomato___Late_blight",
+      "plant": "Tomato",
+      "condition": "Late blight",
+      "healthy": false,
+      "confidence": 0.91,
+      "lat": 38.931,
+      "lng": -79.842,
+      "timestamp": "2026-10-03T10:15:00Z"
+    },
+    {
+      "id": "scan-003",
+      "label": "Tomato___Late_blight",
+      "plant": "Tomato",
+      "condition": "Late blight",
+      "healthy": false,
+      "confidence": 0.88,
+      "lat": 38.929,
+      "lng": -79.839,
+      "timestamp": "2026-10-04T11:15:00Z"
+    },
+    {
+      "id": "scan-004",
+      "label": "Tomato___Early_blight",
+      "plant": "Tomato",
+      "condition": "Early blight",
+      "healthy": false,
+      "confidence": 0.86,
+      "lat": 38.916,
+      "lng": -79.831,
+      "timestamp": "2026-10-05T12:15:00Z"
+    },
+    {
+      "id": "scan-005",
+      "label": "Potato___Late_blight",
+      "plant": "Potato",
+      "condition": "Late blight",
+      "healthy": false,
+      "confidence": 0.92,
+      "lat": 38.932,
+      "lng": -79.841,
+      "timestamp": "2026-10-06T13:15:00Z"
+    },
+    {
+      "id": "scan-006",
+      "label": "Apple___Apple_scab",
+      "plant": "Apple",
+      "condition": "Apple scab",
+      "healthy": false,
+      "confidence": 0.83,
+      "lat": 38.906,
+      "lng": -79.856,
+      "timestamp": "2026-10-07T14:15:00Z"
+    },
+    {
+      "id": "scan-007",
+      "label": "Corn___Common_rust",
+      "plant": "Corn",
+      "condition": "Common rust",
+      "healthy": false,
+      "confidence": 0.79,
+      "lat": 38.956,
+      "lng": -79.866,
+      "timestamp": "2026-10-01T15:15:00Z"
+    },
+    {
+      "id": "scan-008",
+      "label": "Tomato___healthy",
+      "plant": "Tomato",
+      "condition": "Healthy",
+      "healthy": true,
+      "confidence": 0.97,
+      "lat": 38.921,
+      "lng": -79.85,
+      "timestamp": "2026-10-02T16:15:00Z"
+    },
+    {
+      "id": "scan-009",
+      "label": "Apple___healthy",
+      "plant": "Apple",
+      "condition": "Healthy",
+      "healthy": true,
+      "confidence": 0.96,
+      "lat": 38.911,
+      "lng": -79.826,
+      "timestamp": "2026-10-03T17:15:00Z"
+    },
+    {
+      "id": "scan-010",
+      "label": "Corn___healthy",
+      "plant": "Corn",
+      "condition": "Healthy",
+      "healthy": true,
+      "confidence": 0.98,
+      "lat": 38.951,
+      "lng": -79.836,
+      "timestamp": "2026-10-04T18:15:00Z"
+    },
+    {
+      "id": "scan-011",
+      "label": "Grape___healthy",
+      "plant": "Grape",
+      "condition": "Healthy",
+      "healthy": true,
+      "confidence": 0.95,
+      "lat": 38.936,
+      "lng": -79.861,
+      "timestamp": "2026-10-05T19:15:00Z"
+    },
+    {
+      "id": "scan-012",
+      "label": "Pepper,_bell___healthy",
+      "plant": "Bell pepper",
+      "condition": "Healthy",
+      "healthy": true,
+      "confidence": 0.93,
+      "lat": 38.906,
+      "lng": -79.841,
+      "timestamp": "2026-10-06T20:15:00Z"
+    },
+    {
+      "id": "scan-013",
+      "label": "Strawberry___Leaf_scorch",
+      "plant": "Strawberry",
+      "condition": "Leaf scorch",
+      "healthy": false,
+      "confidence": 0.85,
+      "lat": 38.938,
+      "lng": -79.828,
+      "timestamp": "2026-10-07T21:15:00Z"
+    }
+  ]
+}

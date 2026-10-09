@@ -1,0 +1,799 @@
+{
+  "_note": "Keys match PlantVillage model labels. Verify details against cited institution before publishing.",
+  "diseases": {
+    "Apple___Apple_scab": {
+      "plant": "Apple",
+      "condition": "Apple scab",
+      "severity": "moderate",
+      "description": "A fungal disease (Venturia inaequalis) that scars leaves and fruit, worst in cool, wet spring weather.",
+      "symptoms": [
+        "Olive-green to brown velvety spots on leaves",
+        "Dark, scabby lesions on fruit",
+        "Leaves yellow and drop early"
+      ],
+      "treatment": [
+        "Apply fungicide (captan, myclobutanil) from green tip through petal fall",
+        "Remove and destroy fallen leaves"
+      ],
+      "prevention": [
+        "Plant scab-resistant varieties",
+        "Rake leaves in fall",
+        "Prune for airflow"
+      ],
+      "source": "Cornell CALS Plant Pathology"
+    },
+    "Apple___Black_rot": {
+      "plant": "Apple",
+      "condition": "Black rot",
+      "severity": "moderate",
+      "description": "A fungal disease (Botryosphaeria obtusa) causing leaf spots, fruit rot and cankers on branches.",
+      "symptoms": [
+        "Purple-edged 'frogeye' spots on leaves",
+        "Brown rotting fruit that turns black and mummifies",
+        "Sunken, cracked cankers on limbs"
+      ],
+      "treatment": [
+        "Prune out cankers and dead wood",
+        "Remove mummified fruit",
+        "Apply fungicide during bloom through summer"
+      ],
+      "prevention": [
+        "Sanitize pruning tools",
+        "Remove dead wood yearly",
+        "Keep trees well watered and fertilized"
+      ],
+      "source": "Penn State Extension"
+    },
+    "Apple___Cedar_apple_rust": {
+      "plant": "Apple",
+      "condition": "Cedar apple rust",
+      "severity": "moderate",
+      "description": "A fungal disease that alternates between apple and juniper/red cedar trees.",
+      "symptoms": [
+        "Bright yellow-orange spots on upper leaf surface",
+        "Tiny tube-like growths under the spots",
+        "Spotted, deformed fruit"
+      ],
+      "treatment": [
+        "Apply fungicide from pink bud through early summer",
+        "Remove galls from nearby junipers in late winter"
+      ],
+      "prevention": [
+        "Plant rust-resistant varieties",
+        "Keep apples away from red cedar",
+        "Remove nearby juniper galls"
+      ],
+      "source": "Cornell CALS Plant Pathology"
+    },
+    "Apple___healthy": {
+      "plant": "Apple",
+      "condition": "Healthy",
+      "severity": "none",
+      "description": "This apple leaf looks healthy.",
+      "symptoms": [
+        "Even green color",
+        "No spots, mold or curling",
+        "Normal leaf shape"
+      ],
+      "treatment": [
+        "No treatment needed"
+      ],
+      "prevention": [
+        "Water at the base",
+        "Space plants for airflow",
+        "Check leaves weekly"
+      ],
+      "source": "General plant care"
+    },
+    "Blueberry___healthy": {
+      "plant": "Blueberry",
+      "condition": "Healthy",
+      "severity": "none",
+      "description": "This blueberry leaf looks healthy.",
+      "symptoms": [
+        "Even green color",
+        "No spots, mold or curling",
+        "Normal leaf shape"
+      ],
+      "treatment": [
+        "No treatment needed"
+      ],
+      "prevention": [
+        "Water at the base",
+        "Space plants for airflow",
+        "Check leaves weekly"
+      ],
+      "source": "General plant care"
+    },
+    "Cherry___Powdery_mildew": {
+      "plant": "Cherry",
+      "condition": "Powdery mildew",
+      "severity": "moderate",
+      "description": "A fungal disease (Podosphaera clandestina) that coats leaves and fruit in white powder.",
+      "symptoms": [
+        "White powdery patches on leaves",
+        "Curled, distorted young leaves",
+        "Powdery coating on fruit"
+      ],
+      "treatment": [
+        "Apply sulfur or other labeled fungicide at first sign",
+        "Prune infected shoots"
+      ],
+      "prevention": [
+        "Prune for sunlight and airflow",
+        "Avoid excess nitrogen",
+        "Water at the base, not overhead"
+      ],
+      "source": "UC IPM"
+    },
+    "Cherry___healthy": {
+      "plant": "Cherry",
+      "condition": "Healthy",
+      "severity": "none",
+      "description": "This cherry leaf looks healthy.",
+      "symptoms": [
+        "Even green color",
+        "No spots, mold or curling",
+        "Normal leaf shape"
+      ],
+      "treatment": [
+        "No treatment needed"
+      ],
+      "prevention": [
+        "Water at the base",
+        "Space plants for airflow",
+        "Check leaves weekly"
+      ],
+      "source": "General plant care"
+    },
+    "Corn___Cercospora_leaf_spot Gray_leaf_spot": {
+      "plant": "Corn",
+      "condition": "Gray leaf spot",
+      "severity": "high",
+      "description": "A fungal disease (Cercospora zeae-maydis) that can cut yield sharply in warm, humid conditions.",
+      "symptoms": [
+        "Narrow rectangular tan to gray spots between leaf veins",
+        "Spots merge into large dead areas",
+        "Lower leaves affected first"
+      ],
+      "treatment": [
+        "Apply foliar fungicide at tasseling if pressure is high",
+        "Rotate out of corn next season"
+      ],
+      "prevention": [
+        "Rotate crops",
+        "Till residue under",
+        "Plant resistant hybrids"
+      ],
+      "source": "Purdue Extension / Iowa State Extension"
+    },
+    "Corn___Common_rust": {
+      "plant": "Corn",
+      "condition": "Common rust",
+      "severity": "low",
+      "description": "A fungal disease (Puccinia sorghi) producing rust-colored pustules; usually mild in field corn.",
+      "symptoms": [
+        "Small round cinnamon-brown pustules on both leaf surfaces",
+        "Pustules turn black late in season",
+        "Leaves may yellow when severe"
+      ],
+      "treatment": [
+        "Fungicide only if severe before tasseling",
+        "Usually no treatment needed"
+      ],
+      "prevention": [
+        "Plant resistant hybrids",
+        "Plant early",
+        "Scout fields in mid-summer"
+      ],
+      "source": "Iowa State Extension"
+    },
+    "Corn___Northern_Leaf_Blight": {
+      "plant": "Corn",
+      "condition": "Northern leaf blight",
+      "severity": "high",
+      "description": "A fungal disease (Exserohilum turcicum) that causes long lesions and yield loss in cool, humid weather.",
+      "symptoms": [
+        "Long gray-green or tan cigar-shaped lesions",
+        "Lesions 1-6 inches long",
+        "Dead leaf tissue in severe cases"
+      ],
+      "treatment": [
+        "Foliar fungicide at tasseling to early silking",
+        "Rotate crops"
+      ],
+      "prevention": [
+        "Use resistant hybrids",
+        "Rotate and till residue",
+        "Avoid planting corn after corn"
+      ],
+      "source": "Purdue Extension"
+    },
+    "Corn___healthy": {
+      "plant": "Corn",
+      "condition": "Healthy",
+      "severity": "none",
+      "description": "This corn leaf looks healthy.",
+      "symptoms": [
+        "Even green color",
+        "No spots, mold or curling",
+        "Normal leaf shape"
+      ],
+      "treatment": [
+        "No treatment needed"
+      ],
+      "prevention": [
+        "Water at the base",
+        "Space plants for airflow",
+        "Check leaves weekly"
+      ],
+      "source": "General plant care"
+    },
+    "Grape___Black_rot": {
+      "plant": "Grape",
+      "condition": "Black rot",
+      "severity": "high",
+      "description": "A fungal disease (Guignardia bidwellii) that can destroy an entire grape crop in warm, wet weather.",
+      "symptoms": [
+        "Small tan spots with dark borders on leaves",
+        "Berries turn brown then shrivel into hard black mummies",
+        "Black dots on dead tissue"
+      ],
+      "treatment": [
+        "Fungicide from early shoot growth through bloom",
+        "Remove all mummified fruit"
+      ],
+      "prevention": [
+        "Remove mummies and infected canes",
+        "Prune for airflow",
+        "Pick well-drained sites"
+      ],
+      "source": "Cornell CALS / Penn State Extension"
+    },
+    "Grape___Esca_(Black_Measles)": {
+      "plant": "Grape",
+      "condition": "Esca (Black measles)",
+      "severity": "high",
+      "description": "A trunk disease caused by a complex of wood-rotting fungi; vines can decline or die suddenly.",
+      "symptoms": [
+        "Tiger-stripe pattern: yellow/red leaf margins with green veins",
+        "Dark spots on berries",
+        "Sudden wilting of vine in summer"
+      ],
+      "treatment": [
+        "No cure; remove infected wood",
+        "Retrain vine from healthy tissue below infection"
+      ],
+      "prevention": [
+        "Prune in dry weather",
+        "Seal large pruning wounds",
+        "Use clean planting stock"
+      ],
+      "source": "UC IPM"
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+      "plant": "Grape",
+      "condition": "Leaf blight (Isariopsis leaf spot)",
+      "severity": "low",
+      "description": "A fungal leaf spot that mostly affects older leaves late in the season.",
+      "symptoms": [
+        "Irregular dark brown spots on leaves",
+        "Spots may have a yellow halo",
+        "Premature leaf drop"
+      ],
+      "treatment": [
+        "Fungicides used for other grape diseases usually control it",
+        "Remove fallen leaves"
+      ],
+      "prevention": [
+        "Improve canopy airflow",
+        "Clean up leaf debris",
+        "Avoid overhead irrigation"
+      ],
+      "source": "Univ. extension viticulture guides"
+    },
+    "Grape___healthy": {
+      "plant": "Grape",
+      "condition": "Healthy",
+      "severity": "none",
+      "description": "This grape leaf looks healthy.",
+      "symptoms": [
+        "Even green color",
+        "No spots, mold or curling",
+        "Normal leaf shape"
+      ],
+      "treatment": [
+        "No treatment needed"
+      ],
+      "prevention": [
+        "Water at the base",
+        "Space plants for airflow",
+        "Check leaves weekly"
+      ],
+      "source": "General plant care"
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+      "plant": "Orange",
+      "condition": "Citrus greening (Huanglongbing)",
+      "severity": "high",
+      "description": "A bacterial disease spread by the Asian citrus psyllid; it has no cure and kills trees over time.",
+      "symptoms": [
+        "Blotchy yellow mottling on leaves",
+        "Small, lopsided, bitter fruit that stays green at the bottom",
+        "Twig dieback and thin canopy"
+      ],
+      "treatment": [
+        "No cure; remove infected trees",
+        "Control psyllids with insecticide",
+        "Report suspected cases to the state agriculture department"
+      ],
+      "prevention": [
+        "Buy certified disease-free trees",
+        "Monitor and control psyllids",
+        "Remove infected trees quickly"
+      ],
+      "source": "USDA APHIS / UF/IFAS Extension"
+    },
+    "Peach___Bacterial_spot": {
+      "plant": "Peach",
+      "condition": "Bacterial spot",
+      "severity": "moderate",
+      "description": "A bacterial disease (Xanthomonas arboricola pv. pruni) causing leaf and fruit spots in warm, wet weather.",
+      "symptoms": [
+        "Small purple-brown angular leaf spots that fall out, leaving holes",
+        "Sunken dark spots on fruit",
+        "Early leaf drop"
+      ],
+      "treatment": [
+        "Copper or oxytetracycline sprays per local guidance",
+        "Avoid overhead watering"
+      ],
+      "prevention": [
+        "Plant tolerant varieties",
+        "Avoid excess nitrogen",
+        "Maintain tree vigor"
+      ],
+      "source": "Clemson / Univ. of Georgia Extension"
+    },
+    "Peach___healthy": {
+      "plant": "Peach",
+      "condition": "Healthy",
+      "severity": "none",
+      "description": "This peach leaf looks healthy.",
+      "symptoms": [
+        "Even green color",
+        "No spots, mold or curling",
+        "Normal leaf shape"
+      ],
+      "treatment": [
+        "No treatment needed"
+      ],
+      "prevention": [
+        "Water at the base",
+        "Space plants for airflow",
+        "Check leaves weekly"
+      ],
+      "source": "General plant care"
+    },
+    "Pepper,_bell___Bacterial_spot": {
+      "plant": "Bell pepper",
+      "condition": "Bacterial spot",
+      "severity": "moderate",
+      "description": "A bacterial disease (Xanthomonas) spread by splashing water and infected seed.",
+      "symptoms": [
+        "Small dark water-soaked leaf spots",
+        "Spots turn brown with yellow halo",
+        "Raised scabby spots on fruit"
+      ],
+      "treatment": [
+        "Copper-based sprays (limited effect)",
+        "Remove badly infected plants"
+      ],
+      "prevention": [
+        "Use disease-free seed",
+        "Rotate crops 2-3 years",
+        "Avoid working in wet plants"
+      ],
+      "source": "UF/IFAS Extension"
+    },
+    "Pepper,_bell___healthy": {
+      "plant": "Bell pepper",
+      "condition": "Healthy",
+      "severity": "none",
+      "description": "This bell pepper leaf looks healthy.",
+      "symptoms": [
+        "Even green color",
+        "No spots, mold or curling",
+        "Normal leaf shape"
+      ],
+      "treatment": [
+        "No treatment needed"
+      ],
+      "prevention": [
+        "Water at the base",
+        "Space plants for airflow",
+        "Check leaves weekly"
+      ],
+      "source": "General plant care"
+    },
+    "Potato___Early_blight": {
+      "plant": "Potato",
+      "condition": "Early blight",
+      "severity": "moderate",
+      "description": "A fungal disease (Alternaria solani) common on stressed or older plants.",
+      "symptoms": [
+        "Dark brown spots with concentric rings (target-like)",
+        "Yellowing around spots",
+        "Lower leaves hit first"
+      ],
+      "treatment": [
+        "Fungicide (chlorothalonil, mancozeb) at first symptoms",
+        "Remove infected leaves"
+      ],
+      "prevention": [
+        "Rotate crops",
+        "Fertilize and water adequately",
+        "Use certified seed potatoes"
+      ],
+      "source": "University of Minnesota Extension"
+    },
+    "Potato___Late_blight": {
+      "plant": "Potato",
+      "condition": "Late blight",
+      "severity": "high",
+      "description": "An oomycete disease (Phytophthora infestans), the cause of the Irish potato famine; it can destroy a crop within days.",
+      "symptoms": [
+        "Large dark water-soaked blotches on leaves",
+        "White fuzzy growth on leaf undersides",
+        "Brown, firm rot in tubers"
+      ],
+      "treatment": [
+        "Remove and bag infected plants right away",
+        "Protectant fungicides before infection; do not compost"
+      ],
+      "prevention": [
+        "Plant certified disease-free seed",
+        "Destroy volunteer potatoes and cull piles",
+        "Avoid overhead irrigation"
+      ],
+      "source": "Cornell CALS Plant Pathology"
+    },
+    "Potato___healthy": {
+      "plant": "Potato",
+      "condition": "Healthy",
+      "severity": "none",
+      "description": "This potato leaf looks healthy.",
+      "symptoms": [
+        "Even green color",
+        "No spots, mold or curling",
+        "Normal leaf shape"
+      ],
+      "treatment": [
+        "No treatment needed"
+      ],
+      "prevention": [
+        "Water at the base",
+        "Space plants for airflow",
+        "Check leaves weekly"
+      ],
+      "source": "General plant care"
+    },
+    "Raspberry___healthy": {
+      "plant": "Raspberry",
+      "condition": "Healthy",
+      "severity": "none",
+      "description": "This raspberry leaf looks healthy.",
+      "symptoms": [
+        "Even green color",
+        "No spots, mold or curling",
+        "Normal leaf shape"
+      ],
+      "treatment": [
+        "No treatment needed"
+      ],
+      "prevention": [
+        "Water at the base",
+        "Space plants for airflow",
+        "Check leaves weekly"
+      ],
+      "source": "General plant care"
+    },
+    "Soybean___healthy": {
+      "plant": "Soybean",
+      "condition": "Healthy",
+      "severity": "none",
+      "description": "This soybean leaf looks healthy.",
+      "symptoms": [
+        "Even green color",
+        "No spots, mold or curling",
+        "Normal leaf shape"
+      ],
+      "treatment": [
+        "No treatment needed"
+      ],
+      "prevention": [
+        "Water at the base",
+        "Space plants for airflow",
+        "Check leaves weekly"
+      ],
+      "source": "General plant care"
+    },
+    "Squash___Powdery_mildew": {
+      "plant": "Squash",
+      "condition": "Powdery mildew",
+      "severity": "moderate",
+      "description": "A fungal disease that coats leaves in white powder and thrives in warm, dry days with humid nights.",
+      "symptoms": [
+        "White powdery spots on leaves",
+        "Leaves yellow, then brown and die",
+        "Smaller, poorer-quality fruit"
+      ],
+      "treatment": [
+        "Sulfur, potassium bicarbonate or neem oil sprays",
+        "Remove badly affected leaves"
+      ],
+      "prevention": [
+        "Plant resistant varieties",
+        "Space plants for airflow",
+        "Water at the base"
+      ],
+      "source": "Cornell CALS Plant Pathology"
+    },
+    "Strawberry___Leaf_scorch": {
+      "plant": "Strawberry",
+      "condition": "Leaf scorch",
+      "severity": "moderate",
+      "description": "A fungal disease (Diplocarpon earlianum) that weakens plants and lowers yield.",
+      "symptoms": [
+        "Many small dark purple spots on leaves",
+        "Spots merge and leaf edges look burnt",
+        "Leaves dry and curl"
+      ],
+      "treatment": [
+        "Remove infected leaves",
+        "Apply labeled fungicide",
+        "Renovate beds after harvest"
+      ],
+      "prevention": [
+        "Plant resistant varieties",
+        "Space plants",
+        "Avoid overhead watering"
+      ],
+      "source": "Univ. extension strawberry guides"
+    },
+    "Strawberry___healthy": {
+      "plant": "Strawberry",
+      "condition": "Healthy",
+      "severity": "none",
+      "description": "This strawberry leaf looks healthy.",
+      "symptoms": [
+        "Even green color",
+        "No spots, mold or curling",
+        "Normal leaf shape"
+      ],
+      "treatment": [
+        "No treatment needed"
+      ],
+      "prevention": [
+        "Water at the base",
+        "Space plants for airflow",
+        "Check leaves weekly"
+      ],
+      "source": "General plant care"
+    },
+    "Tomato___Bacterial_spot": {
+      "plant": "Tomato",
+      "condition": "Bacterial spot",
+      "severity": "moderate",
+      "description": "A bacterial disease (Xanthomonas) that spreads by splashing rain and contaminated tools or seed.",
+      "symptoms": [
+        "Small dark greasy spots on leaves",
+        "Rough raised scabs on fruit",
+        "Leaf yellowing and drop"
+      ],
+      "treatment": [
+        "Copper sprays (limited effect)",
+        "Remove infected plants"
+      ],
+      "prevention": [
+        "Use disease-free seed and transplants",
+        "Rotate crops",
+        "Don't handle wet plants"
+      ],
+      "source": "UF/IFAS Extension"
+    },
+    "Tomato___Early_blight": {
+      "plant": "Tomato",
+      "condition": "Early blight",
+      "severity": "moderate",
+      "description": "A fungal disease (Alternaria) that begins on older leaves and moves up the plant.",
+      "symptoms": [
+        "Brown spots with concentric rings",
+        "Yellowing around spots",
+        "Dark sunken spots near fruit stem"
+      ],
+      "treatment": [
+        "Remove infected lower leaves",
+        "Fungicide (chlorothalonil, copper)",
+        "Mulch to stop soil splash"
+      ],
+      "prevention": [
+        "Rotate crops",
+        "Stake and prune for airflow",
+        "Water at the base"
+      ],
+      "source": "University of Minnesota Extension"
+    },
+    "Tomato___Late_blight": {
+      "plant": "Tomato",
+      "condition": "Late blight",
+      "severity": "high",
+      "description": "An oomycete disease (Phytophthora infestans) that spreads fast in cool, wet weather and can wipe out plants in days.",
+      "symptoms": [
+        "Large greasy gray-green blotches on leaves",
+        "White mold on leaf undersides in humid weather",
+        "Firm brown rot on fruit"
+      ],
+      "treatment": [
+        "Remove and bag infected plants immediately",
+        "Preventive fungicide for nearby plants",
+        "Do not compost"
+      ],
+      "prevention": [
+        "Buy healthy transplants",
+        "Avoid overhead watering",
+        "Remove volunteer tomatoes/potatoes"
+      ],
+      "source": "Cornell CALS Plant Pathology"
+    },
+    "Tomato___Leaf_Mold": {
+      "plant": "Tomato",
+      "condition": "Leaf mold",
+      "severity": "moderate",
+      "description": "A fungal disease (Passalora fulva) that favors high humidity, especially in greenhouses.",
+      "symptoms": [
+        "Pale green/yellow spots on top of leaves",
+        "Olive-brown fuzzy mold underneath",
+        "Leaves curl and wither"
+      ],
+      "treatment": [
+        "Reduce humidity and increase ventilation",
+        "Remove infected leaves",
+        "Apply labeled fungicide"
+      ],
+      "prevention": [
+        "Use resistant varieties",
+        "Space plants",
+        "Water at the base in the morning"
+      ],
+      "source": "Univ. extension vegetable guides"
+    },
+    "Tomato___Septoria_leaf_spot": {
+      "plant": "Tomato",
+      "condition": "Septoria leaf spot",
+      "severity": "moderate",
+      "description": "A fungal disease (Septoria lycopersici) that causes heavy leaf loss and sunscald on fruit.",
+      "symptoms": [
+        "Many small round spots with dark borders and gray centers",
+        "Tiny black dots in spot centers",
+        "Lower leaves yellow and fall"
+      ],
+      "treatment": [
+        "Remove infected leaves",
+        "Fungicide (chlorothalonil, copper)",
+        "Mulch plants"
+      ],
+      "prevention": [
+        "Rotate 3 years",
+        "Clean up debris",
+        "Avoid wetting foliage"
+      ],
+      "source": "University of Minnesota Extension"
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+      "plant": "Tomato",
+      "condition": "Two-spotted spider mite",
+      "severity": "moderate",
+      "description": "Tiny sap-sucking pests that thrive in hot, dry weather.",
+      "symptoms": [
+        "Tiny yellow stippling on leaves",
+        "Fine webbing under leaves",
+        "Leaves bronze, dry and drop"
+      ],
+      "treatment": [
+        "Spray leaves with strong water stream",
+        "Insecticidal soap or horticultural oil",
+        "Release predatory mites"
+      ],
+      "prevention": [
+        "Keep plants watered and less dusty",
+        "Check leaf undersides weekly",
+        "Avoid broad-spectrum insecticides"
+      ],
+      "source": "UC IPM"
+    },
+    "Tomato___Target_Spot": {
+      "plant": "Tomato",
+      "condition": "Target spot",
+      "severity": "moderate",
+      "description": "A fungal disease (Corynespora cassiicola) favored by warm, humid weather.",
+      "symptoms": [
+        "Brown spots with concentric rings and yellow halo",
+        "Spots on fruit that become pitted",
+        "Leaf drop in severe cases"
+      ],
+      "treatment": [
+        "Fungicide at first symptoms",
+        "Remove infected leaves"
+      ],
+      "prevention": [
+        "Improve airflow",
+        "Rotate crops",
+        "Avoid overhead irrigation"
+      ],
+      "source": "UF/IFAS Extension"
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+      "plant": "Tomato",
+      "condition": "Tomato yellow leaf curl virus",
+      "severity": "high",
+      "description": "A virus spread by whiteflies that stunts plants and reduces yield severely.",
+      "symptoms": [
+        "Upward-curling, yellow leaf edges",
+        "Stunted bushy growth",
+        "Flowers drop and little fruit"
+      ],
+      "treatment": [
+        "No cure; remove infected plants",
+        "Control whiteflies"
+      ],
+      "prevention": [
+        "Use resistant varieties",
+        "Use reflective mulch or row covers",
+        "Control weeds and whiteflies"
+      ],
+      "source": "UF/IFAS Extension"
+    },
+    "Tomato___Tomato_mosaic_virus": {
+      "plant": "Tomato",
+      "condition": "Tomato mosaic virus",
+      "severity": "high",
+      "description": "A very stable virus spread by hands, tools and seed.",
+      "symptoms": [
+        "Mottled light and dark green leaves",
+        "Curled, fern-like leaves",
+        "Stunted plants and uneven fruit ripening"
+      ],
+      "treatment": [
+        "No cure; remove and destroy plants",
+        "Wash hands and disinfect tools"
+      ],
+      "prevention": [
+        "Use certified seed",
+        "Don't use tobacco near plants",
+        "Disinfect tools"
+      ],
+      "source": "UC IPM"
+    },
+    "Tomato___healthy": {
+      "plant": "Tomato",
+      "condition": "Healthy",
+      "severity": "none",
+      "description": "This tomato leaf looks healthy.",
+      "symptoms": [
+        "Even green color",
+        "No spots, mold or curling",
+        "Normal leaf shape"
+      ],
+      "treatment": [
+        "No treatment needed"
+      ],
+      "prevention": [
+        "Water at the base",
+        "Space plants for airflow",
+        "Check leaves weekly"
+      ],
+      "source": "General plant care"
+    }
+  }
+}
